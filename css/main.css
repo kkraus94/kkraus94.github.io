@@ -4,7 +4,7 @@ body {
 }
 
 
-.nav li{
+.nav {
     display:inline;
     margin-left:10px;
     padding-right:10px;
